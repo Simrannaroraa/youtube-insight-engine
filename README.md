@@ -22,14 +22,14 @@ An AI-powered application that summarizes YouTube videos and answers user questi
   
 📂 Project Structure
 youtube-insight-engine/
-│── app.py                 # Main application
-│── utils.py               # Helper functions
-│── debug_transcript.py    # Debug transcript extraction
-│── debug_langchain.py     # Debug LangChain flow
-│── debug_utils.py         # Debug utilities
-│── list_models.py         # List available Gemini models
-│── requirements.txt       # Dependencies
-│── .env.example           # Sample environment file
+ │── app.py                 # Main application
+ │── utils.py               # Helper functions
+ │── debug_transcript.py    # Debug transcript extraction
+ │── debug_langchain.py     # Debug LangChain flow
+ │── debug_utils.py         # Debug utilities
+ │── list_models.py         # List available Gemini models
+ │── requirements.txt       # Dependencies
+ │── .env.example           # Sample environment file
 
 
 ⚙️ Setup Instructions
